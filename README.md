@@ -3,7 +3,7 @@
 #### Technical Skills: Python, IA (ML/DL), GNSS 
 
 ## Work Experience
-**Data Scientist @ GUIDE-GNSS, Toulouse, France (_April 2022 - present_)**
+**Data Scientist @ GUIDE-GNSS, Toulouse (_April 2022 - present_)**
 
 Modeling and Theorizing Local GNSS Errors :
 --> Tunnels, bridges, canopies, buildings, asymmetry road
@@ -11,14 +11,14 @@ Modeling and Theorizing Local GNSS Errors :
 ▪ GNSS signal recording and testbed replay 
 ▪ Environmental characterization and receiver modeling
 
-**Data Architect @ Capgemini Engineering, Toulouse, France (_September 2021 - April 2022_)**
+**Data Architect @ Capgemini Engineering, Toulouse (_September 2021 - April 2022_)**
 
 Data architect on Skywise BIG DATA platform at Airbus Commercial Aircraft customer : IYY Avionics and Simulation Products (ECU Production Line) 
 ▪ Understanding and translating business requirements into technical specifications. 
 ▪ Implementation of a data flow mapping. 
 ▪ Collection of metadata on the freshness, frequency of use and reading of data.
 
-**Data Scientist Intern @ Capgemini Engineering, Toulouse, France (_March 2021 - September 2021_)**
+**Data Scientist Intern @ Capgemini Engineering, Toulouse (_March 2021 - September 2021_)**
 
 Time series analysis of aircraft simulators at Airbus Aircraft Commercial : IYK Modeling et Simulation 
 ▪ Data acquisition (CSV data formatting) 
@@ -39,7 +39,7 @@ cquired business knowledge : Flight mechanics, Aeronautical coefficients
 ▪ Writing of task sheets and procedure for future users of the tool.
 
 ## Education							       		
-**- M.S., Data / AI Telecom & Network	| Institut Mines Telecom Nord Europe (_September 2021_)**
+**- M.S., Data / AI Telecom & Network | Institut Mines Telecom Nord Europe (_September 2021_)**
 
 ▪ Multimedia analysis : Machine Learning (Processing & Information search)
 ▪ Big Multimedia analysis - Deep Learning (Image, Video processing, Unsupervised learning, Time series analysis, NLP)
@@ -49,6 +49,5 @@ cquired business knowledge : Flight mechanics, Aeronautical coefficients
 ▪ Digital Systems, analog electronics, modulation
 ▪ Python, Java, C, Arduino programming
 ▪ Economics - accounting - marketing - management ▪ Business function, structure, strategy and communication
-
 
 **- H.S., Engineering Science | Lycée Rouvière, Toulon, France (_June 2016_)**
