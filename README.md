@@ -7,6 +7,7 @@
 **Data Scientist @ GUIDE-GNSS, Toulouse (_April 2022 - present_)**
 
 Modeling and Theorizing Local GNSS Errors :
+
 * Tunnels, bridges, canopies, buildings, asymmetry road
 * Attenuation, Diffraction, Multipath, Jamming, Spoofing
 
@@ -30,6 +31,7 @@ IYY Avionics and Simulation Products (ECU Production Line)
 **Data Scientist Intern @ Capgemini Engineering, Toulouse (_March 2021 - September 2021_)**
 
 Time series analysis of aircraft simulators at Airbus Aircraft Commercial : IYK Modeling et Simulation 
+
 * Data acquisition (CSV data formatting) 
 * Exploration (Data visualization, outlier search, correlation, PCA) 
 * Cleaning (Removing bad data, normalization, reshape) 
@@ -49,7 +51,8 @@ Acquired business knowledge : Flight mechanics, Aeronautical coefficients
 * Specification of the need (IT project management) 
 * Development of synthesis generation tools on bus operations: 
     - SQL query on Oracle RDBMS 
-    - Python analysis and data formatting on Excel (Power Query and VBA) 
+    - Python analysis with UI
+    - Data formatting on Excel (Power Query and VBA) 
 * Writing of task sheets and procedure for future users of the tool.
 
 ## Education							       		
