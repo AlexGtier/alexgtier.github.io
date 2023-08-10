@@ -5,6 +5,7 @@
 ## Work Experience
 
 **Data Scientist @ GUIDE-GNSS, Toulouse (_April 2022 - present_)**
+
 Modeling and Theorizing Local GNSS Errors :
     - Tunnels, bridges, canopies, buildings, asymmetry road
     - Attenuation, Diffraction, Multipath, Jamming, Spoofing 
@@ -13,6 +14,7 @@ Modeling and Theorizing Local GNSS Errors :
 ![Urban Canyon](/assets/img/urban_canyon.png)
 
 **Data Architect @ Capgemini Engineering, Toulouse (_September 2021 - April 2022_)**
+
 Data architect on Skywise BIG DATA platform at Airbus Commercial Aircraft customer : IYY Avionics and Simulation Products (ECU Production Line) 
 - Understanding and translating business requirements into technical specifications. 
 - Implementation of a data flow mapping. 
@@ -20,6 +22,7 @@ Data architect on Skywise BIG DATA platform at Airbus Commercial Aircraft custom
 ![ECU Prod Line](/assets/img/airbus_calculator.png)
 
 **Data Scientist Intern @ Capgemini Engineering, Toulouse (_March 2021 - September 2021_)**
+
 Time series analysis of aircraft simulators at Airbus Aircraft Commercial : IYK Modeling et Simulation 
 - Data acquisition (CSV data formatting) 
 - Exploration (Data visualization, outlier search, correlation, PCA) 
@@ -31,6 +34,7 @@ cquired business knowledge : Flight mechanics, Aeronautical coefficients
 ![Aircraft Simulator](/assets/img/aircraft_simulator.png)
 
 **Data Analyst Intern @ NStCM-TPN, Nyon, Switzerland (_March 2020 - July 2020_)**
+
 - Audit of the company's IS and needs with the bus operations department. 
 - Specification of the need (IT project management) 
 - Development of synthesis generation tools on bus operations: 
@@ -40,6 +44,7 @@ cquired business knowledge : Flight mechanics, Aeronautical coefficients
 
 ## Education							       		
 **- M.S., Data / AI Telecom & Network | Institut Mines Telecom Nord Europe (_September 2021_)**
+
 - Multimedia analysis : Machine Learning (Processing & Information search)
 - Big Multimedia analysis - Deep Learning (Image, Video processing, Unsupervised learning, Time series analysis, NLP)
 - Multivariate Data Analysis, Similarity Search, Optimization
