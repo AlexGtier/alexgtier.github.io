@@ -6,19 +6,23 @@
 
 **Data Scientist @ GUIDE-GNSS, Toulouse (_April 2022 - present_)**
 
-* Modeling and Theorizing Local GNSS Errors :
-    - Tunnels, bridges, canopies, buildings, asymmetry road
-    - Attenuation, Diffraction, Multipath, Jamming, Spoofing 
-* GNSS signal recording and testbed replay 
-* Environmental characterization and receiver modeling
+Modeling and Theorizing Local GNSS Errors :
+* Tunnels, bridges, canopies, buildings, asymmetry road
+* Attenuation, Diffraction, Multipath, Jamming, Spoofing
+
+GNSS signal recording and testbed replay
+
+Environmental characterization and receiver modeling
  
 ![Urban Canyon](/assets/img/urban_canyon.png) ![Agri Robot](/assets/img/agriculture_robot.jpg)
 
 **Data Architect @ Capgemini Engineering, Toulouse (_September 2021 - April 2022_)**
 
-Data architect on Skywise BIG DATA platform at Airbus Commercial Aircraft customer : IYY Avionics and Simulation Products (ECU Production Line) 
+Data architect on Skywise BIG DATA platform at Airbus Commercial Aircraft customer : 
+IYY Avionics and Simulation Products (ECU Production Line)
+
 * Understanding and translating business requirements into technical specifications. 
-* Implementation of a data flow mapping. 
+* Implementation of a data flow mapping.
 * Collection of metadata on the freshness, frequency of use and reading of data.
 
 ![ECU Prod Line](/assets/img/airbus_calculator.png)
@@ -31,9 +35,11 @@ Time series analysis of aircraft simulators at Airbus Aircraft Commercial : IYK 
 * Cleaning (Removing bad data, normalization, reshape) 
 * Analysis 
     - Event classification: Deep Learning (CNN, ResNet, AutoEncoder) 
-    - Tuning of neural network architectures and hyper-parameters. 
-My tools : AWS (SageMaker, S3), Python 3.6 (numpy, pandas, tensorflow, keras, sklearn) 
-cquired business knowledge : Flight mechanics, Aeronautical coefficients
+    - Tuning of neural network architectures and hyper-parameters.
+
+My tools : AWS (SageMaker, S3), Python 3.6 (numpy, pandas, tensorflow, keras, sklearn)
+
+Acquired business knowledge : Flight mechanics, Aeronautical coefficients
 
 ![Aircraft Simulator](/assets/img/aircraft_simulator.png)
 
