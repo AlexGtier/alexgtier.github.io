@@ -15,7 +15,7 @@ GNSS signal recording and testbed replay
 
 Environmental characterization and receiver modeling
  
-![Urban Canyon](/assets/img/urban_canyon.png) ![Agri Robot](/assets/img/agriculture_robot.jpg)
+![Urban Canyon](/assets/img/urban_canyon.png)  ![Agri Robot](/assets/img/agriculture_robot.png)
 
 **Data Architect @ Capgemini Engineering, Toulouse (_September 2021 - April 2022_)**
 
