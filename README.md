@@ -11,6 +11,7 @@
     - Attenuation, Diffraction, Multipath, Jamming, Spoofing 
 - GNSS signal recording and testbed replay 
 - Environmental characterization and receiver modeling
+ 
 ![Urban Canyon](/assets/img/urban_canyon.png)
 
 **Data Architect @ Capgemini Engineering, Toulouse (_September 2021 - April 2022_)**
@@ -19,6 +20,7 @@
     - Understanding and translating business requirements into technical specifications. 
     - Implementation of a data flow mapping. 
     - Collection of metadata on the freshness, frequency of use and reading of data.
+
 ![ECU Prod Line](/assets/img/airbus_calculator.png)
 
 **Data Scientist Intern @ Capgemini Engineering, Toulouse (_March 2021 - September 2021_)**
@@ -31,6 +33,7 @@
         - Tuning of neural network architectures and hyper-parameters. 
 - My tools : AWS (SageMaker, S3), Python 3.6 (numpy, pandas, tensorflow, keras, sklearn) 
 cquired business knowledge : Flight mechanics, Aeronautical coefficients
+
 ![Aircraft Simulator](/assets/img/aircraft_simulator.png)
 
 **Data Analyst Intern @ NStCM-TPN, Nyon, Switzerland (_March 2020 - July 2020_)**
