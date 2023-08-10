@@ -3,19 +3,22 @@
 #### Technical Skills: Python, IA (ML/DL), GNSS 
 
 ## Work Experience
+![Urban Canyon](/assets/img/urban_canyon.jpg)
 **Data Scientist @ GUIDE-GNSS, Toulouse (_April 2022 - present_)**
-- Modeling and Theorizing Local GNSS Errors :
+Modeling and Theorizing Local GNSS Errors :
     - Tunnels, bridges, canopies, buildings, asymmetry road
     - Attenuation, Diffraction, Multipath, Jamming, Spoofing 
 - GNSS signal recording and testbed replay 
 - Environmental characterization and receiver modeling
 
+![ECU Prod Line](/assets/img/airbus_calculator.png)
 **Data Architect @ Capgemini Engineering, Toulouse (_September 2021 - April 2022_)**
 Data architect on Skywise BIG DATA platform at Airbus Commercial Aircraft customer : IYY Avionics and Simulation Products (ECU Production Line) 
 - Understanding and translating business requirements into technical specifications. 
 - Implementation of a data flow mapping. 
 - Collection of metadata on the freshness, frequency of use and reading of data.
 
+![Aircraft Simulator](/assets/img/aircraft_simulator.png)
 **Data Scientist Intern @ Capgemini Engineering, Toulouse (_March 2021 - September 2021_)**
 Time series analysis of aircraft simulators at Airbus Aircraft Commercial : IYK Modeling et Simulation 
 - Data acquisition (CSV data formatting) 
