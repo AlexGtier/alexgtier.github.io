@@ -21,7 +21,7 @@ GNSS disturbances caused by Urban Canyon | Integrity of Autonomous Agricultural 
 ![Urban Canyon](/assets/img/urban_canyon.png) | ![Agri Robot](/assets/img/agriculture_robot.png)
 
 
-**Data Architect @ Capgemini Engineering, Toulouse (_September 2021 - April 2022_)**
+**Data Architect @ Capgemini, Toulouse (_September 2021 - April 2022_)**
 
 Data architect on Skywise BIG DATA platform at Airbus Commercial Aircraft customer : 
 IYY Avionics and Simulation Products (ECU Production Line)
@@ -34,7 +34,7 @@ Production chain producing massive data |
 :--------------------------------------:|
 ![ECU Prod Line](/assets/img/airbus_calculator.png)|
 
-**Data Scientist Intern @ Capgemini Engineering, Toulouse (_March 2021 - September 2021_)**
+**Data Scientist Intern @ Capgemini, Toulouse (_March 2021 - September 2021_)**
 
 Time series analysis of aircraft simulators at Airbus Aircraft Commercial : IYK Modeling et Simulation 
 
@@ -53,7 +53,7 @@ Very costly aicraft simulator maintenance |
 :----------------------------------------:|
 ![Aircraft Simulator](/assets/img/aircraft_simulator.png)|
 
-**Data Analyst Intern @ NStCM-TPN, Nyon, Switzerland (_March 2020 - July 2020_)**
+**Data Analyst Intern @ NStCM-TPN, Switzerland (_March 2020 - July 2020_)**
 
 * Audit of the company's IS and needs with the bus operations department. 
 * Specification of the need (IT project management) 
@@ -68,7 +68,7 @@ Bus operation data management and analysis |
 ![Bus Downtown](/assets/img/bus-downtown.png)|
 
 ## Education							       		
-**- M.S., Data / AI Telecom & Network | Institut Mines Telecom Nord Europe (_September 2021_)**
+**- M.S., Data / AI Telecom & Network | IMT Nord Europe (_2021_)**
 
 * Multimedia analysis : Machine Learning (Processing & Information search)
 * Big Multimedia analysis - Deep Learning (Image, Video processing, Unsupervised learning, Time series analysis, NLP)
@@ -80,7 +80,10 @@ Bus operation data management and analysis |
 * Economics - accounting - marketing - management 
 * Business function, structure, strategy and communication
 
-**- H.S., Engineering Science | Lycée Rouvière, Toulon, France (_June 2016_)**
+
+**- H.S., Engineering Science | Lycée Rouvière, Toulon (_2016_)**
 
 * Engineering science (mechanics, electronics)
 * Aeronautical Initiation Certificate
+
+
