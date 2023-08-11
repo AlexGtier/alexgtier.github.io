@@ -68,7 +68,7 @@ Bus operation data management and analysis |
 ![Bus Downtown](/assets/img/bus-downtown.png)|
 
 ## Education							       		
-**- M.S., Data / AI Telecom & Network | IMT Nord Europe (_2021_)**
+**M.S., Data / AI Telecom & Network | IMT Nord Europe (_2021_)**
 
 * Multimedia analysis : Machine Learning (Processing & Information search)
 * Big Multimedia analysis - Deep Learning (Image, Video processing, Unsupervised learning, Time series analysis, NLP)
@@ -81,9 +81,9 @@ Bus operation data management and analysis |
 * Business function, structure, strategy and communication
 
 
-**- H.S., Engineering Science | Lycée Rouvière, Toulon (_2016_)**
+**H.S., Engineering Science | Lycée Rouvière, Toulon (_2016_)**
 
 * Engineering science (mechanics, electronics)
 * Aeronautical Initiation Certificate
 
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgtier&langs_count=2&theme=tokyonight)]()
