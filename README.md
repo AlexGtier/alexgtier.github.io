@@ -10,10 +10,11 @@ Modeling and Theorizing Local GNSS Errors :
 
 * Tunnels, bridges, canopies, buildings, asymmetry road
 * Attenuation, Diffraction, Multipath, Jamming, Spoofing
+* Multivariate Time Series prediction pipeline
 
 GNSS signal recording and testbed replay
 
-Environmental characterization and receiver modeling
+GNSS Environmental characterization and receiver performances modeling
  
 ![Urban Canyon](/assets/img/urban_canyon.png)  ![Agri Robot](/assets/img/agriculture_robot.png)
 
@@ -69,3 +70,6 @@ Acquired business knowledge : Flight mechanics, Aeronautical coefficients
 * Business function, structure, strategy and communication
 
 **- H.S., Engineering Science | Lycée Rouvière, Toulon, France (_June 2016_)**
+
+* Engineering science (mechanics, electronics)
+* Aeronautical Initiation Certificate
