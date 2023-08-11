@@ -15,8 +15,11 @@ Modeling and Theorizing Local GNSS Errors :
 GNSS signal recording and testbed replay
 
 GNSS Environmental characterization and receiver performances modeling
- 
-![Urban Canyon](/assets/img/urban_canyon.png)  ![Agri Robot](/assets/img/agriculture_robot.png)
+
+GNSS disturbances caused by Urban Canyon | Integrity of Autonomous Agricultural Robot
+:---------------------------------------:|:------------------------------------------:
+![Urban Canyon](/assets/img/urban_canyon.png) | ![Agri Robot](/assets/img/agriculture_robot.png)
+
 
 **Data Architect @ Capgemini Engineering, Toulouse (_September 2021 - April 2022_)**
 
@@ -27,7 +30,9 @@ IYY Avionics and Simulation Products (ECU Production Line)
 * Implementation of a data flow mapping.
 * Collection of metadata on the freshness, frequency of use and reading of data.
 
-![ECU Prod Line](/assets/img/airbus_calculator.png)
+Production chain producing massive data |
+:--------------------------------------:|
+![ECU Prod Line](/assets/img/airbus_calculator.png)|
 
 **Data Scientist Intern @ Capgemini Engineering, Toulouse (_March 2021 - September 2021_)**
 
@@ -44,7 +49,9 @@ My tools : AWS (SageMaker, S3), Python 3.6 (numpy, pandas, tensorflow, keras, sk
 
 Acquired business knowledge : Flight mechanics, Aeronautical coefficients
 
-![Aircraft Simulator](/assets/img/aircraft_simulator.png)
+Very costly aicraft simulator maintenance |
+:----------------------------------------:|
+![Aircraft Simulator](/assets/img/aircraft_simulator.png)|
 
 **Data Analyst Intern @ NStCM-TPN, Nyon, Switzerland (_March 2020 - July 2020_)**
 
@@ -55,6 +62,10 @@ Acquired business knowledge : Flight mechanics, Aeronautical coefficients
     - Python analysis with UI
     - Data formatting on Excel (Power Query and VBA) 
 * Writing of task sheets and procedure for future users of the tool.
+
+Bus operation data management and analysis |
+:-----------------------------------------:|
+![Bus Downtown](/assets/img/bus-downtown.png)|
 
 ## Education							       		
 **- M.S., Data / AI Telecom & Network | Institut Mines Telecom Nord Europe (_September 2021_)**
