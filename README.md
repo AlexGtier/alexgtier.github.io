@@ -86,4 +86,4 @@ Bus operation data management and analysis |
 * Engineering science (mechanics, electronics)
 * Aeronautical Initiation Certificate
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgtier&langs_count=2&theme=tokyonight)]()
+[![GNSS Background](/assets/img/satellite-constellation.jpg)]()
