@@ -1,4 +1,9 @@
 title: Alex Gautier
-subtitle: Resume - CV
 logo: assets/img/headshot-bw.png
 theme: jekyll-theme-minimal
+
+author:
+  name     : Alex Gautier"
+  avatar   : "assets/img/headshot-bw.png"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Toulouse, France"
