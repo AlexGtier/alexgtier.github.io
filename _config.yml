@@ -1,9 +1,16 @@
 title: Alex Gautier
-logo: assets/img/headshot-bw.png
+email: alex.gautier@guide-gnss.com
+# logo: assets/img/headshot-bw.png
 theme: jekyll-theme-minimal
+markdown: kramdown
+timezone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 author:
   name     : Alex Gautier"
   avatar   : "assets/img/headshot-bw.png"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
+  bio      : "Data Scientist in Geolocation"
   location : "Toulouse, France"
+  links:
+   - label: "linkedIn"
+     icon: "assets/img/linkedin-icon.png"
+     url: "https://www.linkedin.com/in/alexgautier/"
