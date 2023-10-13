@@ -18,7 +18,7 @@ GNSS Environmental characterization and receiver performances modeling
 
 GNSS disturbances caused by Urban Canyon | Integrity of Autonomous Agricultural Robot
 :---------------------------------------:|:------------------------------------------:
-![Urban Canyon](/assets/img/urban_canyon.png) | ![Agri Robot](/assets/img/agriculture_robot.png)
+![Urban Canyon](/assets/img/urban_canyon2.png) | ![Agri Robot](/assets/img/agriculture_robot.png)
 
 
 **Data Architect @ Capgemini, Toulouse (_September 2021 - April 2022_)**
