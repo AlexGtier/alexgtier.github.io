@@ -6,15 +6,17 @@
 
 **Data Scientist @ GUIDE-GNSS, Toulouse (_April 2022 - present_)**
 
-Modeling and Theorizing Local GNSS Errors :
+Characterization of the local urban GNSS environment :
+* Tunnels, bridges, canopies, buildings, asymmetrical road
+* Attenuation, Masking, Diffraction, Multipath, Jamming
 
-* Tunnels, bridges, canopies, buildings, asymmetry road
-* Attenuation, Diffraction, Multipath, Jamming, Spoofing
-* Multivariate Time Series prediction pipeline
+AI Modelling of GNSS terminal position errors :
+* Map hybridization, Measurement integrity 
+* Machine Learning to predict position error profiles
 
-GNSS signal recording and testbed replay
-
-GNSS Environmental characterization and receiver performances modeling
+GNSS Test Engineering ISO/IEC 17025 :
+* Reference Trajectory with INS/RTK
+* GNSS signal recording and test bench playback
 
 GNSS disturbances caused by Urban Canyon | Integrity of Autonomous Agricultural Robot
 :---------------------------------------:|:------------------------------------------:
@@ -45,9 +47,9 @@ Time series analysis of aircraft simulators at Airbus Aircraft Commercial : IYK 
     - Event classification: Deep Learning (CNN, ResNet, AutoEncoder) 
     - Tuning of neural network architectures and hyper-parameters.
 
-My tools : AWS (SageMaker, S3), Python 3.6 (numpy, pandas, tensorflow, keras, sklearn)
-
-Acquired business knowledge : Flight mechanics, Aeronautical coefficients
+>My tools : AWS (SageMaker, S3), Python 3.6 (numpy, pandas, tensorflow, keras, sklearn)
+>
+>Acquired business knowledge : Flight mechanics, Aeronautical coefficients
 
 Very costly aicraft simulator maintenance |
 :----------------------------------------:|
